@@ -10,7 +10,8 @@ public class FollowUp {
             System.out.println(k);
             return;
         }
-
+//WE will use 3 dp technique
+        
         int dp1[] = new int[n + 1];
         int dp2[] = new int[n + 1];
         int dp3[] = new int[n + 1];
